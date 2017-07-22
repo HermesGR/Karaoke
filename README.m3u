@@ -1,5 +1,49 @@
 
 #EXTM3U
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1, ΠΟΥΛΑ ΜΕ - ΠΥΞ ΛΑΞ
+plugin://plugin.video.youtube/?action=play_video&videoid=ln74ZNteZ38
+
+#EXTINF:1, ΕΜΕΙΝΑ ΕΔΩ - ΣΤ.ΡΟΚΚΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=pygG361s38U
+
+#EXTINF:1, ΔΕΝ ΖΗΤΑΩ ΠΟΛΛΑ - Κ.ΜΑΡΑΒΕΓΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=IaD-GTBpqt4
+
+#EXTINF:1, ΕΣΠΑΣΕ Η ΝΥΧΤΑ 2 ΚΟΜΜΑΤΙΑ - Α.ΡΕΜΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=3L18nZJ8GdI
+
+#EXTINF:1, TΟ ΠΑΛΙΟ ΜΟΥ ΠΑΛΤΟ - Χ.ΔΑΝΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=Qz0SnZenGdw
+
+#EXTINF:1, ΦΙΛΑ ΜΕ ΑΚΟΜΑ - Π.ΜΟΥΖΟΥΡΑΚΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=9SMPzZ52C54
+
+#EXTINF:1, ΧΙΛΙΕΣ ΣΙΩΠΕΣ - Ε.ΤΣΑΛΙΓΟΠΟΥΛΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=IzQENlJGZVc
+
+#EXTINF:1, ΤΟ ΛΑΘΟΣ - Μ.ΑΣΛΑΝΙΔΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=6mn1SPYRy68
+
+#EXTINF:1, ΑΝ ΥΠΑΡΧΕΙ ΠΑΡΑΔΕΙΣΟΣ - Ν.ΘΕΟΔΩΡΙΔΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=ZFdHEcUfQ6s
+
+#EXTINF:1, ΓΙ'ΑΥΤΟ Σ'ΑΓΑΠΩ - Γ.ΓΙΑΝΝΙΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=gx7-BjI76hE
+
+#EXTINF:1, ΕΝΝΟΕΙΤΑΙ - Ν.ΟΙΚΟΝΟΜΟΠΟΥΛΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=vUmOyD4ir90
+
+#EXTINF:1, ΑΛΚΟΟΛΙΚΕΣ ΟΙ ΝΥΧΤΕΣ - Π.ΠΑΝΤΕΛΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=lg6A0cCP-DE
+
+#EXTINF:1, ΠΑΡΑΜΥΘΙΑΖΟΜΑΙ - Π.ΠΑΝΤΕΛΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=SV7k-fdhiIM
+
+#EXTINF:1, ΛΙΩΜΑ ΣΕ ΓΚΡΕΜΟ - Π.ΠΑΝΤΕΛΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=KMJ99RNUV-k
+
+#EXTINF:1, ΔΕΝ ΤΑΙΡΙΑΖΕΤΕ ΣΟΥ ΛΕΩ - Π.ΠΑΝΤΕΛΙΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=xAlNfYKoU3s
+
+
