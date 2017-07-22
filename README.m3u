@@ -1,11 +1,35 @@
 
 #EXTM3U
 
-#EXTINF:1, ΠΟΥΛΑ ΜΕ - ΠΥΞ ΛΑΞ
-plugin://plugin.video.youtube/?action=play_video&videoid=ln74ZNteZ38
+#EXTINF:1, ΜΙΑ ΕΙΝΑΙ Η ΟΥΣΙΑ - Χ.ΑΛΕΞΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=qUEkeB7tleg
 
-#EXTINF:1, ΕΜΕΙΝΑ ΕΔΩ - ΣΤ.ΡΟΚΚΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=pygG361s38U
+#EXTINF:1, ΤΟ ΚΟΚΚΙΝΟ ΦΟΥΣΤΑΝΙ - Ε.ΑΡΒΑΝΙΤΑΚΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=b_n2ay-VTlE
+
+#EXTINF:1, ΤΑ ΣΜΥΡΝΕΙΚΑ ΤΡΑΓΟΥΔΙΑ - Π.ΘΑΛΑΣΣΙΝΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=yY4RoiBNIgA
+
+#EXTINF:1, ΑΝΑΘΕΜΑ ΣΕ - Π.ΘΑΛΑΣΣΙΝΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=jyDdjozhO5U
+
+#EXTINF:1, ΤΟ ΤΣΙΓΑΡΟ - Γ.ΚΟΤΣΙΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=0vMrXzGBDPY
+
+#EXTINF:1, ΦΤΑΙΜΕ ΚΙ ΔΥΟ - Γ.ΠΑΡΙΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=vq2XrltJbSw
+
+#EXTINF:1, ΙΣΩΣ - Γ.ΒΑΡΔΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=VOoN3OwFr34
+
+#EXTINF:1, ΜΟΝΟ ΜΙΑ ΦΟΡΑ - Κ.ΜΑΚΕΔΟΝΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=aLMdQwxEnI8
+
+#EXTINF:1, ΤΟ ΠΟΔΗΛΑΤΟ - Κ.ΜΑΚΕΔΟΝΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=vCx5tCF0wes
+
+#EXTINF:1, ΕΙΣΑΙ ΕΔΩ - Μ.ΧΑΤΖΗΓΙΑΝΝΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=7A-S6ffjTN0
 
 #EXTINF:1, ΔΕΝ ΖΗΤΑΩ ΠΟΛΛΑ - Κ.ΜΑΡΑΒΕΓΙΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=IaD-GTBpqt4
@@ -24,6 +48,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=IzQENlJGZVc
 
 #EXTINF:1, ΤΟ ΛΑΘΟΣ - Μ.ΑΣΛΑΝΙΔΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=6mn1SPYRy68
+
+#EXTINF:1, ΠΟΥΛΑ ΜΕ - ΠΥΞ ΛΑΞ
+plugin://plugin.video.youtube/?action=play_video&videoid=ln74ZNteZ38
 
 #EXTINF:1, ΑΝ ΥΠΑΡΧΕΙ ΠΑΡΑΔΕΙΣΟΣ - Ν.ΘΕΟΔΩΡΙΔΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=ZFdHEcUfQ6s
@@ -46,4 +73,29 @@ plugin://plugin.video.youtube/?action=play_video&videoid=KMJ99RNUV-k
 #EXTINF:1, ΔΕΝ ΤΑΙΡΙΑΖΕΤΕ ΣΟΥ ΛΕΩ - Π.ΠΑΝΤΕΛΙΔΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=xAlNfYKoU3s
 
+#EXTINF:1, ΑΝΗΚΩ Σ'ΕΜΕΝΑ - Γ.ΜΑΖΩΝΑΚΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=bf_3reSseqk
 
+#EXTINF:1, ΕΛΑ ΝΑ ΜΕ ΤΕΛΕΙΩΣΕΙΣ - Α.ΡΕΜΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=epz522sOP5w
+
+#EXTINF:1, ΕΚΡΥΨΑ ΤΟ ΠΡΟΣΩΠΟ ΜΟΥ - Α.ΡΕΜΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=CWanZ82AQ-E
+
+#EXTINF:1, ΑΧ ΚΟΡΙΤΣΙ ΜΟΥ - Γ.ΠΛΟΥΤΑΡΧΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=9DIaeeEithw
+
+#EXTINF:1, ΔΕΝ ΤΕΛΕΙΩΣΑΜΕ - Α.ΡΕΜΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=IUU7aaJ7jaE
+
+#EXTINF:1, ΣΤΩΝ ΑΓΓΕΛΩΝ ΤΑ ΜΠΟΥΖΟΥΚΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=gAaXrjEeLEU
+
+#EXTINF:1, ΤΗΣ ΓΥΝΑΙΚΑΣ Η ΚΑΡΔΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=_DFRt7F899g
+
+#EXTINF:1, ΟΠΟΙΑ ΚΑΙ ΝΑ'ΣΑΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=ldHRA8zuOdw
+
+#EXTINF:1, ΘΑ ΠΙΩ ΑΠΟΨΕ ΤΟ ΦΕΓΓΑΡΙ
+plugin://plugin.video.youtube/?action=play_video&videoid=wtPa20DSyWg
